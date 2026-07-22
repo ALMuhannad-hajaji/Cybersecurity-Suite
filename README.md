@@ -8,9 +8,7 @@
 
 ## 🛡️ Project Overview
 
-The **Cybersecurity Suite** is a production-ready, modular, Python-based security toolkit designed for IT administrators, cybersecurity students, and software engineers. It consolidates multiple defensive, analytical, and diagnostic capabilities into a single, cohesive terminal application.
-
-This repository demonstrates rigorous software engineering principles, including **Clean Code (PEP8)**, **Modular Architecture**, **Robust Error Handling**, **Unit Testing (Pytest)**, and **Continuous Integration (GitHub Actions)**. 
+This is a personal, modular Python toolkit I built to apply what I've been learning in cybersecurity — networking, cryptography, and system security — through hands-on code rather than just certifications. Each tool is a small, standalone script I wrote and understand end-to-end, organized into a simple package structure as I learned more about clean code practices.
 
 The suite is engineered to act as both a beautiful Interactive Dashboard via `main.py` and a series of independent Command Line Interface (CLI) scripts suitable for pipeline automation.
 
@@ -166,6 +164,7 @@ Add UDP port scanning capabilities to the Port Scanner.
 
 🧑‍💻 Author
 AL MUHANNAD MOHAMMED MOHAMMED HAJAJI
-Senior Software & Cybersecurity Engineering Student
-Prepared for International University Portfolios & Open Source Contributions
+A personal cybersecurity learning project built while preparing
+for university applications (high school student,self-taught in Python security tooling)
+
 
