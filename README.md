@@ -142,7 +142,7 @@ Why it exists: Serves as a localized, air-gapped defense against social engineer
 Example CLI: 
 python3 sec_suite/analysis/ai_phishing_detector.py -t "Urgent: Reset password now"
          
-          🧪 Testing & CI/CD
+           Testing & CI/CD
 The project leverages pytest for unit testing and flake8 for linting.
 To run tests locally:
      
@@ -152,17 +152,17 @@ flake8 . --count --max-complexity=10 --max-line-length=120 --statistics
 
 A GitHub Actions workflow (ci.yml) is integrated, guaranteeing that all commits pushed to main maintain build stability, pass linting, and succeed in unit testing.
 
-🔒 Security Notice
+           Security Notice
 This toolkit is designed strictly for authorized educational, administrative, and defensive usage.
 Ensure you possess explicit permission before running scanning tools against networks or applications.
 The author holds no liability for misuse of the network analysis scripts.
 
-🔮 Future Improvements
+           Future Improvements
 Expand Log Analyzer to ingest Windows Event Logs (.evtx).
 Introduce GUI integration via PyQt5.
 Add UDP port scanning capabilities to the Port Scanner.
 
-🧑‍💻 Author
+           Author
 AL MUHANNAD MOHAMMED MOHAMMED HAJAJI
 A personal cybersecurity learning project built while preparing
 for university applications (high school student,self-taught in Python security tooling)
